@@ -5,8 +5,8 @@ pipeline {
         }
     }
     environment {
-        DOCKER_IMAGE = 'register'
-        GITHUB_REPO = 'https://github.com/UsmanDevelop/RegistrationPage.git'
+        DOCKER_IMAGE = 'ffsocial'
+        GITHUB_REPO = 'hhttps://github.com/HamdaNoor/ff-social.git'
     }
     stages {
         stage('Clone Repository') {
