@@ -1,0 +1,421 @@
+productID,productName,productDescription,price,availability,color,imagePath,category,size,brand
+ALK231009,Fabrics 3 Piece Suit,Printed Light Khaddar | Top Bottoms Dupatta,3490,In Stock,NAVY,/assets/Images/ALK231009/image_0.jpg,Casual,Medium,Asim Jofa
+BLK231004,Fabrics 3 Piece Suit,Printed Embroidered Light Khaddar | Top Bottoms Dupatta,4290,In Stock,OLIVE,/assets/Images/BLK231004/image_0.jpg,Casual,Small,Asim Jofa
+ACA231008,Fabrics 3 Piece Suit,Printed Cambric | Top Bottoms Dupatta,3490,In Stock,BEIGE,/assets/Images/ACA231008/image_0.jpg,Casual,Large,Zara Khan
+ILK231001,Fabrics 2 Piece,Printed Embroidered Light Khaddar | Top Bottoms,3990,In Stock,D-GREEN,/assets/Images/ILK231001/image_0.jpg,Casual,Medium,Asim Jofa
+JK231001,Fabrics 2 Piece,Printed Khaddar | Top Bottoms,2490,In Stock,WHITE,/assets/Images/JK231001/image_0.jpg,Casual,Small,Asim Jofa
+MLK231001,Fabrics 2 Piece,Printed Embroidered Light Khaddar | Top Dupatta,3390,In Stock,GREEN,/assets/Images/MLK231001/image_0.jpg,Casual,Large,Zara Khan
+AK231006,Fabrics 3 Piece Suit,Printed Khaddar | Top Bottoms Dupatta,3490,In Stock,ORANGE,/assets/Images/AK231006/image_0.jpg,Casual,Medium,Asim Jofa
+BLK231001,Fabrics 3 Piece Suit,Printed Embroidered Light Khaddar | Top Bottoms Dupatta,4290,In Stock,NAVY,/assets/Images/BLK231001/image_0.jpg,Casual,Small,Asim Jofa
+JK231002,Fabrics 2 Piece,Printed Khaddar | Top Bottoms,2490,In Stock,ORANGE,/assets/Images/JK231002/image_0.jpg,Casual,Large,Zara Khan
+BCH231002,Fabrics 3 Piece Suit,Dyed Embroidered Crosshatch | Top Bottoms Dupatta,5490,In Stock,BEIGE,/assets/Images/BCH231002/image_0.jpg,Casual,Medium,Asim Jofa
+ALK231017,Fabrics 3 Piece Suit,Printed Light Khaddar | Top Bottoms Dupatta,3490,In Stock,NAVY,/assets/Images/ALK231017/image_0.jpg,Casual,Small,J.
+BCH231003,Fabrics 3 Piece Suit,Dyed Embroidered Crosshatch | Top Bottoms Dupatta,5490,In Stock,D-PINK,/assets/Images/BCH231003/image_0.jpg,Casual,Large,Bonanza
+BK231002,Fabrics 3 Piece Suit,Printed Embroidered Khaddar | Top Bottoms Shawl,5490,In Stock,BLACK,/assets/Images/BK231002/image_0.jpg,Casual,Medium,Asim Jofa
+BK231004,Fabrics 3 Piece Suit,Printed Embroidered Khaddar | Top Bottoms Dupatta,4990,In Stock,OLIVE,/assets/Images/BK231004/image_0.jpg,Casual,Small,Asim Jofa
+BLK231007,Fabrics 3 Piece Suit,Printed Embroidered Light Khaddar | Top Bottoms Dupatta,4290,In Stock,GREEN,/assets/Images/BLK231007/image_0.jpg,Casual,Large,Zara Khan
+BLK231008,Fabrics 3 Piece Suit,Printed Embroidered Light Khaddar | Top Bottoms Dupatta,4290,In Stock,BLUE,/assets/Images/BLK231008/image_0.jpg,Casual,Medium,Asim Jofa
+BLK231005,Fabrics 3 Piece Suit,Printed Embroidered Light Khaddar | Top Bottoms Dupatta,4290,In Stock,MUSTARD,/assets/Images/BLK231005/image_0.jpg,Casual,Small,Asim Jofa
+BK231001,Fabrics 3 Piece Suit,Printed Embroidered Khaddar | Top Bottoms Shawl,5490,In Stock,GREEN,/assets/Images/BK231001/image_0.jpg,Casual,Large,Zara Khan
+EET24146,Classic Kurta,Printed | Cambric,2490,In Stock,MULTI,/assets/Images/EET24146/image_0.jpg,Casual,Size,Asim Jofa
+EST23427,Batwing Tunic,Printed Embroidered | Dull Raw Silk,6490,In Stock,MULTI,/assets/Images/EST23427/image_0.jpg,Casual,Medium,Asim Jofa
+EET23534,Drop Shoulder,Printed | Khaddar,3490,In Stock,NAVY,/assets/Images/EET23534/image_0.jpg,Casual,Small,Asim Jofa
+EST23430,Classic Kameez,Printed Embroidered | Dull Raw Silk,4990,In Stock,OFF-WHITE,/assets/Images/EST23430/image_0.jpg,Casual,Large,Asim Jofa
+EST23424,Classic Kameez,Yarn Dyed | Cotton Polyester Broshia Jacquard,4990,In Stock,GREEN,/assets/Images/EST23424/image_0.jpg,Casual,Medium,Asim Jofa
+EET23532,Choga,Dyed Embroidered | Crosshatch,3690,In Stock,BLACK,/assets/Images/EET23532/image_0.jpg,Casual,Small,Zara Khan
+EST23420,Classic Kurta,Dyed Embroidered | Dull Raw Silk,4990,In Stock,PURPLE,/assets/Images/EST23420/image_0.jpg,Casual,Large,Asim Jofa
+EST23419,Classic Kurta,Dyed Embroidered | Dull Raw Silk,6990,In Stock,OFF-WHITE,/assets/Images/EST23419/image_0.jpg,Casual,Medium,Asim Jofa
+EST23423,Classic Kameez,Dyed Embroidered | Dull Raw Silk,4990,In Stock,PINK,/assets/Images/EST23423/image_0.jpg,Casual,Small,Zara Khan
+EET23528,Drop Shoulder,Dyed Embroidered | Crosshatch,3190,In Stock,GREEN,/assets/Images/EET23528/image_0.jpg,Casual,Large,Asim Jofa
+EET24141,Classic Kurta,Printed | Cambric,2490,In Stock,MULTI,/assets/Images/EET24141/image_0.jpg,Casual,Medium,Asim Jofa
+EST23429,Choga,Printed Embroidered | Dull Raw Silk,5990,In Stock,TURQUOISE,/assets/Images/EST23429/image_0.jpg,Casual,Small,Zara Khan
+LLA230902,Fabrics 2 Piece,Printed Lawn | Top Dupatta,2490,In Stock,BEIGE,/assets/Images/LLA230902/image_0.jpg,Casual,Large,Asim Jofa
+JCA231003,Fabrics 2 Piece,Printed Cambric | Top Bottoms,2490,In Stock,GREEN,/assets/Images/JCA231003/image_0.jpg,Casual,Medium,J.
+JLK231002,Fabrics 2 Piece,Printed Light Khaddar | Top Bottoms,2490,In Stock,L-GREEN,/assets/Images/JLK231002/image_0.jpg,Casual,Small,Bonanza
+JCA231001,Fabrics 2 Piece,Printed Cambric | Top Bottoms,2490,In Stock,NAVY,/assets/Images/JCA231001/image_0.jpg,Casual,Large,Asim Jofa
+JLK231001,Fabrics 2 Piece,Printed Light Khaddar | Top Bottoms,2490,In Stock,BEIGE,/assets/Images/JLK231001/image_0.jpg,Casual,Medium,Asim Jofa
+WSCD23237,Wrap Blouse,Printed | Viscose Crepe,3990,In Stock,BLACK,/assets/Images/WSCD23237/image_0.jpg,Casual,Small,Zara Khan
+WSCT23223,Button Down Tunic,Printed | Viscose Crepe,3490,In Stock,BROWN,/assets/Images/WSCT23223/image_0.jpg,Casual,Large,Asim Jofa
+WSCT23224,Drawstring Waist Shirt,Dyed Embroidered | Viscose Cottel,4690,In Stock,BEIGE,/assets/Images/WSCT23224/image_0.jpg,Casual,Size,Asim Jofa
+WSCD23241,V Neck Blouse,Dyed Embroidered | Viscose Cottel,3990,In Stock,BLACK,/assets/Images/WSCD23241/image_0.jpg,Casual,Medium,Zara Khan
+WSCD23248,Wrap Dress,Printed | Viscose Cottel,4990,In Stock,BLACK,/assets/Images/WSCD23248/image_0.jpg,Casual,Small,Asim Jofa
+WSCD23239,Wrap Dress,Printed | Dull Raw Silk,4990,In Stock,BLUE,/assets/Images/WSCD23239/image_0.jpg,Casual,Large,Asim Jofa
+WSCD23238,Belted Shirt Dress,Printed | Viscose Crepe,4990,In Stock,BLUE,/assets/Images/WSCD23238/image_0.jpg,Casual,Medium,Asim Jofa
+WSCB23219,Bootcut Trousers,Printed | Viscose Crepe,2590,In Stock,BROWN,/assets/Images/WSCB23219/image_0.jpg,Casual,Small,Asim Jofa
+WSCD23240B,Wide Leg Trousers,Dyed Embroidered | Viscose Crepe,3190,In Stock,BLUE,/assets/Images/WSCD23240B/image_0.jpg,Casual,Large,Asim Jofa
+WSCB23221,Straight Trousers,Dyed | Stretch Twill,3490,In Stock,BEIGE,/assets/Images/WSCB23221/image_0.jpg,Casual,Medium,Zara Khan
+WSCB23222,Straight Trousers,Dyed | Stretch Twill,3490,In Stock,BLACK,/assets/Images/WSCB23222/image_0.jpg,Casual,Small,Asim Jofa
+WCKT23234,Round Neck T-shirt,Dyed Embroidered | Cotton Jersey,1790,In Stock,WHITE,/assets/Images/WCKT23234/image_0.jpg,Casual,Large,Asim Jofa
+AK231001,Fabrics 3 Piece Suit,Printed Khaddar | Top Bottoms Dupatta,3490,In Stock,RED,/assets/Images/AK231001/image_0.jpg,Casual,Medium,Zara Khan
+ALK231018,Fabrics 3 Piece Suit,Printed Light Khaddar | Top Bottoms Dupatta,3490,In Stock,BLACK,/assets/Images/ALK231018/image_0.jpg,Casual,Small,Asim Jofa
+AK231002,Fabrics 3 Piece Suit,Printed Khaddar | Top Bottoms Dupatta,3490,In Stock,BEIGE,/assets/Images/AK231002/image_0.jpg,Casual,Large,Asim Jofa
+ALK231012,Fabrics 3 Piece Suit,Printed Light Khaddar | Top Bottoms Dupatta,3490,In Stock,PURPLE,/assets/Images/ALK231012/image_0.jpg,Casual,Medium,Zara Khan
+IK231002,Fabrics 2 Piece,Printed Embroidered Khaddar | Top Bottoms,3290,In Stock,MAROON,/assets/Images/IK231002/image_0.jpg,Casual,Small,Asim Jofa
+ACA231005,Fabrics 3 Piece Suit,Printed Cambric | Top Bottoms Dupatta,3490,In Stock,OFF-WHITE,/assets/Images/ACA231005/image_0.jpg,Casual,Large,J.
+ACA231001,Fabrics 3 Piece Suit,Printed Cambric | Top Bottoms Dupatta,3990,In Stock,BLUE,/assets/Images/ACA231001/image_0.jpg,Casual,Medium,Bonanza
+ACA231002,Fabrics 3 Piece Suit,Printed Cambric | Top Bottoms Dupatta,3990,In Stock,PINK,/assets/Images/ACA231002/image_0.jpg,Casual,Small,Asim Jofa
+ACA231006,Fabrics 3 Piece Suit,Printed Cambric | Top Bottoms Dupatta,3490,In Stock,NAVY,/assets/Images/ACA231006/image_0.jpg,Casual,Large,Asim Jofa
+ACA231003,Fabrics 3 Piece Suit,Printed Cambric | Top Bottoms Dupatta,3990,In Stock,BLACK,/assets/Images/ACA231003/image_0.jpg,Casual,Size,Zara Khan
+JCA231002,Fabrics 2 Piece,Printed Cambric | Top Bottoms,2490,In Stock,PURPLE,/assets/Images/JCA231002/image_0.jpg,Casual,Medium,Asim Jofa
+LCA231001,Fabrics 2 Piece,Printed Cambric | Top Dupatta,2590,In Stock,L-PINK,/assets/Images/LCA231001/image_0.jpg,Casual,Small,Asim Jofa
+BPO230603,Fabrics 3 Piece Suit,Dyed Embroidered Polyester Organza | Top Bottoms Dupatta,8990,In Stock,BLUE,/assets/Images/BPO230603/image_0.jpg,Casual,Large,Zara Khan
+BDS230603,Fabrics 3 Piece Suit,Dyed Embroidered Dull Raw Silk | Top Bottoms Dupatta,7390,In Stock,BLUE,/assets/Images/BDS230603/image_0.jpg,Casual,Medium,Asim Jofa
+BPO230601,Fabrics 3 Piece Suit,Dyed Embroidered Polyester Organza | Top Bottoms Dupatta,9790,In Stock,RED,/assets/Images/BPO230601/image_0.jpg,Casual,Small,Asim Jofa
+BPO230604,Fabrics 3 Piece Suit,Dyed Embroidered Polyester Organza | Top Bottoms Dupatta,8990,In Stock,PURPLE,/assets/Images/BPO230604/image_0.jpg,Casual,Large,Asim Jofa
+BDS230604,Fabrics 3 Piece Suit,Dyed Embroidered Dull Raw Silk | Top Bottoms Dupatta,7790,In Stock,RED,/assets/Images/BDS230604/image_0.jpg,Casual,Medium,Asim Jofa
+BDS230602,Fabrics 3 Piece Suit,Dyed Embroidered Dull Raw Silk | Top Bottoms Dupatta,8190,In Stock,BEIGE,/assets/Images/BDS230602/image_0.jpg,Casual,Small,Asim Jofa
+BDS230601,Fabrics 3 Piece Suit,Dyed Embroidered Dull Raw Silk | Top Bottoms Dupatta,7190,In Stock,WHITE,/assets/Images/BDS230601/image_0.jpg,Casual,Large,Zara Khan
+MLA230703,Fabrics 2 Piece,Printed Embroidered Lawn | Top Dupatta,4390,In Stock,BLACK,/assets/Images/MLA230703/image_0.jpg,Casual,Medium,Asim Jofa
+ILA230704,Fabrics 2 Piece,Printed Embroidered Lawn | Top Bottoms,3990,In Stock,BROWN,/assets/Images/ILA230704/image_0.jpg,Casual,Small,Asim Jofa
+ILA230701,Fabrics 2 Piece,Printed Embroidered Lawn | Top Bottoms,3590,In Stock,BLACK,/assets/Images/ILA230701/image_0.jpg,Casual,Large,Zara Khan
+LLA230703,Fabrics 2 Piece,Printed Lawn | Top Dupatta,2590,In Stock,ORANGE,/assets/Images/LLA230703/image_0.jpg,Casual,Medium,Asim Jofa
+LRI230601,Fabrics 2 Piece,Printed Lawn | Top Dupatta,3590,In Stock,RED,/assets/Images/LRI230601/image_0.jpg,Casual,Small,Asim Jofa
+MLA230704,Fabrics 2 Piece,Printed Embroidered Lawn | Top Dupatta,4390,In Stock,BLUE,/assets/Images/MLA230704/image_0.jpg,Casual,Large,Zara Khan
+LLA230711,Fabrics 2 Piece,Printed Lawn | Top Dupatta,2390,In Stock,MUSTARD,/assets/Images/LLA230711/image_0.jpg,Casual,Medium,Asim Jofa
+LRI230602,Fabrics 2 Piece,Printed Lawn | Top Dupatta,3590,In Stock,MUSTARD,/assets/Images/LRI230602/image_0.jpg,Casual,Small,J.
+ILA230703,Fabrics 2 Piece,Printed Embroidered Lawn | Top Bottoms,4190,In Stock,WHITE,/assets/Images/ILA230703/image_0.jpg,Casual,Large,Bonanza
+ILA230702,Fabrics 2 Piece,Printed Embroidered Lawn | Top Bottoms,3590,In Stock,PURPLE,/assets/Images/ILA230702/image_0.jpg,Casual,Size,Asim Jofa
+LLA230810,Fabrics 2 Piece,Printed Lawn | Top Dupatta,2390,In Stock,RED,/assets/Images/LLA230810/image_0.jpg,Casual,Medium,Asim Jofa
+LLA230809,Fabrics 2 Piece,Printed Lawn | Top Dupatta,2390,In Stock,MUSTARD,/assets/Images/LLA230809/image_0.jpg,Casual,Small,Zara Khan
+ALA230817,Fabrics 3 Piece Suit,Printed Lawn | Top Bottoms Dupatta,3990,In Stock,BEIGE,/assets/Images/ALA230817/image_0.jpg,Casual,Large,Asim Jofa
+BLA230809,Fabrics 3 Piece Suit,Printed Embroidered Lawn | Top Bottoms Dupatta,3690,In Stock,BEIGE,/assets/Images/BLA230809/image_0.jpg,Casual,Medium,Asim Jofa
+ALA230818,Fabrics 3 Piece Suit,Printed Lawn | Top Bottoms Dupatta,3990,In Stock,MUSTARD,/assets/Images/ALA230818/image_0.jpg,Casual,Small,Zara Khan
+BLA230806,Fabrics 3 Piece Suit,Printed Embroidered Lawn | Top Bottoms Dupatta,4390,In Stock,PINK,/assets/Images/BLA230806/image_0.jpg,Casual,Large,Asim Jofa
+LLA230807,Fabrics 2 Piece,Printed Lawn | Top Dupatta,2490,In Stock,PURPLE,/assets/Images/LLA230807/image_0.jpg,Casual,Medium,Asim Jofa
+ALA230820,Fabrics 3 Piece Suit,Printed Lawn | Top Bottoms Dupatta,3990,In Stock,BLACK,/assets/Images/ALA230820/image_0.jpg,Casual,Small,Asim Jofa
+ALA230806,Fabrics 3 Piece Suit,Printed Lawn | Top Bottoms Dupatta,3990,In Stock,RED,/assets/Images/ALA230806/image_0.jpg,Casual,Large,Asim Jofa
+JLA230801,Fabrics 2 Piece,Printed Lawn | Top Bottoms,2390,In Stock,BEIGE,/assets/Images/JLA230801/image_0.jpg,Casual,Medium,Asim Jofa
+ALA230803,Fabrics 3 Piece Suit,Printed Lawn | Top Bottoms Dupatta,3990,In Stock,OFF-WHITE,/assets/Images/ALA230803/image_0.jpg,Casual,Small,Zara Khan
+AMA231003,Fabrics 3 Piece Suit,Printed Marina Twill | Top Bottoms Dupatta,4990,In Stock,TEAL,/assets/Images/AMA231003/image_0.jpg,Casual,Large,Asim Jofa
+AJ230601,Fabrics 3 Piece Suit,Yarn Dyed Cotton Brosha Jacquard | Top Bottoms Dupatta,6790,In Stock,BLUE,/assets/Images/AJ230601/image_0.jpg,Casual,Medium,Asim Jofa
+AJ230604,Fabrics 3 Piece Suit,Yarn Dyed Cotton Brosha Jacquard | Top Bottoms Dupatta,6790,In Stock,RED,/assets/Images/AJ230604/image_0.jpg,Casual,Small,Zara Khan
+AJ230602,Fabrics 3 Piece Suit,Yarn Dyed Cotton Brosha Jacquard | Top Bottoms Dupatta,6790,In Stock,BLACK,/assets/Images/AJ230602/image_0.jpg,Casual,Large,Asim Jofa
+AJ230603,Fabrics 3 Piece Suit,Yarn Dyed Cotton Brosha Jacquard | Top Bottoms Dupatta,6790,In Stock,MUSTARD,/assets/Images/AJ230603/image_0.jpg,Casual,Medium,Asim Jofa
+KKF230601,Fabrics 3 Piece Suit | Khaas,Dyed Embroidered Viscose Silk | Top Bottoms Dupatta,18990,In Stock,BLACK,/assets/Images/KKF230601/image_0.jpg,Casual,Small,Zara Khan
+AMA231006,Fabrics 3 Piece Suit,Printed Marina Twill | Top Bottoms Dupatta,4990,In Stock,PURPLE,/assets/Images/AMA231006/image_0.jpg,Casual,Large,Asim Jofa
+ALK231015,Fabrics 3 Piece Suit,Printed Light Khaddar | Top Bottoms Dupatta,3490,In Stock,BLACK,/assets/Images/ALK231015/image_0.jpg,Casual,Size,J.
+BCH231004,Fabrics 3 Piece Suit,Dyed Embroidered Crosshatch | Top Bottoms Dupatta,5490,In Stock,BLUE,/assets/Images/BCH231004/image_0.jpg,Casual,Medium,Bonanza
+BK231003,Fabrics 3 Piece Suit,Printed Embroidered Khaddar | Top Bottoms Shawl,5490,In Stock,PINK,/assets/Images/BK231003/image_0.jpg,Casual,Small,Asim Jofa
+LLK231003,Fabrics 2 Piece,Printed Light Khaddar | Top Dupatta,2890,In Stock,D-PINK,/assets/Images/LLK231003/image_0.jpg,Casual,Large,Asim Jofa
+LK231001,Fabrics 2 Piece,Printed Khaddar | Top Dupatta,2590,In Stock,BLACK,/assets/Images/LK231001/image_0.jpg,Casual,Medium,Zara Khan
+LLK231002,Fabrics 2 Piece,Printed Light Khaddar | Top Dupatta,2890,In Stock,OFF-WHITE,/assets/Images/LLK231002/image_0.jpg,Casual,Small,Asim Jofa
+ICH231002,Fabrics 2 Piece,Dyed Embroidered Crosshatch | Top Bottoms,3990,In Stock,MUSTARD,/assets/Images/ICH231002/image_0.jpg,Casual,Large,Asim Jofa
+MCH231002,Fabrics 2 Piece,Dyed Embroidered Crosshatch | Top Dupatta,3990,In Stock,CORAL,/assets/Images/MCH231002/image_0.jpg,Casual,Medium,Zara Khan
+MLK231002,Fabrics 2 Piece Suit,Printed Embroidered Light Khaddar | Top Dupatta,3390,In Stock,OFF-WHITE,/assets/Images/MLK231002/image_0.jpg,Casual,Small,Asim Jofa
+IK231001,Fabrics 2 Piece,Printed Embroidered Khaddar | Top Bottoms,3290,In Stock,RUST,/assets/Images/IK231001/image_0.jpg,Casual,Large,Asim Jofa
+MCA231002,Fabrics 2 Piece,Printed Embroidered Cambric | Top Dupatta,3390,In Stock,YELLOW,/assets/Images/MCA231002/image_0.jpg,Casual,Medium,Asim Jofa
+MCA231001,Fabrics 2 Piece,Printed Embroidered Cambric | Top Dupatta,3390,In Stock,TEAL,/assets/Images/MCA231001/image_0.jpg,Casual,Small,Asim Jofa
+MCH231001,Fabrics 2 Piece,Dyed Embroidered Crosshatch | Top Dupatta,3990,In Stock,OLIVE,/assets/Images/MCH231001/image_0.jpg,Casual,Large,Asim Jofa
+MCA231003,Fabrics 2 Piece,Printed Embroidered Cambric | Top Dupatta,3390,In Stock,BLACK,/assets/Images/MCA231003/image_0.jpg,Casual,Medium,Zara Khan
+ICH231001,Fabrics 2 Piece,Dyed Embroidered Crosshatch | Top Bottoms,3990,In Stock,NAVY,/assets/Images/ICH231001/image_0.jpg,Casual,Small,Asim Jofa
+ICH231003,Fabrics 2 Piece,Dyed Embroidered Crosshatch | Top Bottoms,3990,In Stock,BLACK,/assets/Images/ICH231003/image_0.jpg,Casual,Large,Asim Jofa
+ISCH231003,Fabrics 2 Piece,Printed Embroidered Slub Crosshatch | Top Bottoms,3990,In Stock,L-YELLOW,/assets/Images/ISCH231003/image_0.jpg,Casual,Medium,Zara Khan
+ISCH231004,Fabrics 2 Piece,Printed Embroidered Slub Crosshatch | Top Bottoms,3990,In Stock,L-GREEN,/assets/Images/ISCH231004/image_0.jpg,Casual,Small,Asim Jofa
+LLK231001,Fabrics 2 Piece,Printed Light Khaddar | Top Dupatta,2590,In Stock,GREEN,/assets/Images/LLK231001/image_0.jpg,Casual,Large,Asim Jofa
+LK231002,Fabrics 2 Piece,Printed Khaddar | Top Dupatta,2590,In Stock,RED,/assets/Images/LK231002/image_0.jpg,Casual,Size,Zara Khan
+LLA230913,Fabrics 2 Piece,Printed Lawn | Top Dupatta,2990,In Stock,BLACK,/assets/Images/LLA230913/image_0.jpg,Casual,Medium,Asim Jofa
+JLK231003,Fabrics 2 Piece,Printed Light Khaddar | Top Bottoms,2790,In Stock,BLACK,/assets/Images/JLK231003/image_0.jpg,Casual,Small,J.
+JLK231004,Fabrics 2 Piece,Printed Light Khaddar | Top Bottoms,2790,In Stock,RED,/assets/Images/JLK231004/image_0.jpg,Casual,Large,Bonanza
+EET24144,Classic Kameez,Printed | Cambric,2490,In Stock,MULTI,/assets/Images/EET24144/image_0.jpg,Casual,Medium,Asim Jofa
+EET24145,Classic Kameez,Printed | Cambric,2490,In Stock,MULTI,/assets/Images/EET24145/image_0.jpg,Casual,Small,Asim Jofa
+EET24150,Classic Kameez,Printed | Cambric,2490,In Stock,MULTI,/assets/Images/EET24150/image_0.jpg,Casual,Large,Zara Khan
+EET24147,Classic Kameez,Printed | Cambric,2490,In Stock,MULTI,/assets/Images/EET24147/image_0.jpg,Casual,Medium,Asim Jofa
+EET23530,Classic Kurta,Dyed Embroidered | Crosshatch,3490,In Stock,RUST,/assets/Images/EET23530/image_0.jpg,Casual,Small,Asim Jofa
+EET23516,Choga,Printed | Khaddar,2990,In Stock,BLACK,/assets/Images/EET23516/image_0.jpg,Casual,Large,Zara Khan
+EET24142,Classic Kameez,Printed | Cambric,2490,In Stock,MULTI,/assets/Images/EET24142/image_0.jpg,Casual,Medium,Asim Jofa
+EET24149,Classic Kurta,Printed | Cambric,2490,In Stock,MULTI,/assets/Images/EET24149/image_0.jpg,Casual,Small,Asim Jofa
+EET24143,Classic Kurta,Printed | Cambric,2490,In Stock,MULTI,/assets/Images/EET24143/image_0.jpg,Casual,Large,Asim Jofa
+EKT231023,Side Open Long Kameez,Yarn Dyed Embroidered | Raw Silk,20990,In Stock,MAROON,/assets/Images/EKT231023/image_0.jpg,Casual,Medium,Asim Jofa
+EKT231025,Classic Kameez,Yarn Dyed Embroidered | Cotton Net,27990,In Stock,OFF-WHITE,/assets/Images/EKT231025/image_0.jpg,Casual,Small,Asim Jofa
+EKT231023B,Flared Pants,Yarn Dyed Embroidered | Raw Silk,6990,In Stock,RED,/assets/Images/EKT231023B/image_0.jpg,Casual,Large,Zara Khan
+EKS231012,Dupatta,Yarn Dyed Embroidered | Cotton Net,7990,In Stock,RED,/assets/Images/EKS231012/image_0.jpg,Casual,Medium,Asim Jofa
+EKB231011,Narrow Culottes,Yarn Dyed Embroidered | Raw Silk,7990,In Stock,OFF-WHITE,/assets/Images/EKB231011/image_0.jpg,Casual,Small,J.
+EKT231022,Front Open Kameez,Yarn Dyed Embroidered | Raw Silk,29990,In Stock,BLUE,/assets/Images/EKT231022/image_0.jpg,Casual,Large,Bonanza
+EKT231028,Front Open Kameez,Yarn Dyed Embroidered | Cotton Net,27990,In Stock,GREEN,/assets/Images/EKT231028/image_0.jpg,Casual,Size,Asim Jofa
+EKT231024,Classic Kameez,Yarn Dyed Embroidered | Cotton Net,24990,In Stock,PINK,/assets/Images/EKT231024/image_0.jpg,Casual,Medium,Asim Jofa
+EKT231021,Classic Kameez,Yarn Dyed Embroidered | Cotton Net,24990,In Stock,YELLOW,/assets/Images/EKT231021/image_0.jpg,Casual,Small,Zara Khan
+EKS231011,Dupatta,Yarn Dyed Embroidered | Cotton Net,12990,In Stock,OFF-White,/assets/Images/EKS231011/image_0.jpg,Casual,Large,Asim Jofa
+EKT231021S,Dupatta,Yarn Dyed Embroidered | Cotton Net,12990,In Stock,YELLOW,/assets/Images/EKT231021S/image_0.jpg,Casual,Medium,Asim Jofa
+EKS231011S,Dupatta,Yarn Dyed Embroidered | Cotton Net,9990,In Stock,OFF-White,/assets/Images/EKS231011S/image_0.jpg,Casual,Small,Zara Khan
+EKT22322,Flared Kurta,Dyed Embroidered | Viscose Oak Silk,34990,In Stock,BLACK,/assets/Images/EKT22322/image_0.jpg,Casual,Large,Asim Jofa
+EKB22310,Flared Pants,Dyed Embroidered | Viscose Oak Silk,8990,In Stock,BLACK,/assets/Images/EKB22310/image_0.jpg,Casual,Medium,Asim Jofa
+EKT22324,Classic Kameez,Dyed Embroidered | Viscose Oak Silk,24990,In Stock,GREEN,/assets/Images/EKT22324/image_0.jpg,Casual,Small,Asim Jofa
+EKB22312,Straight Pants,Dyed Embroidered | Viscose Oak Silk,5990,In Stock,PINK,/assets/Images/EKB22312/image_0.jpg,Casual,Large,Asim Jofa
+EKB22309,Narrow Culottes,Dyed Embroidered | Viscose Oak Silk,5990,In Stock,GREEN,/assets/Images/EKB22309/image_0.jpg,Casual,Medium,Asim Jofa
+EKT22323,Classic Kameez,Dyed Embroidered | Viscose Oak Silk,29990,In Stock,PINK,/assets/Images/EKT22323/image_0.jpg,Casual,Small,Zara Khan
+EKT22319,Classic Kurta,Printed Embroidered | Viscose Oak Silk,19990,In Stock,GREEN,/assets/Images/EKT22319/image_0.jpg,Casual,Large,Asim Jofa
+EKT22318,Classic Kurta,Printed Embroidered | Viscose Oak Silk,24990,In Stock,BLACK,/assets/Images/EKT22318/image_0.jpg,Casual,Medium,J.
+EKT22317,Flared Kameez,Printed Embroidered | Viscose Oak Silk,39990,In Stock,MULTI,/assets/Images/EKT22317/image_0.jpg,Casual,Small,Bonanza
+EKT22320,Classic Kameez,Dyed Embroidered | Viscose Oak Silk,29990,In Stock,MUSTARD,/assets/Images/EKT22320/image_0.jpg,Casual,Large,Asim Jofa
+EKT22320B,Narrow Culottes,Dyed Embroidered | Viscose Oak Silk,5990,In Stock,MUSTARD,/assets/Images/EKT22320B/image_0.jpg,Casual,Medium,Asim Jofa
+EET235136,Kali Kurta,Printed Embroidered | Dobby,4190,In Stock,PINK,/assets/Images/EET235136/image_0.jpg,Casual,Small,Zara Khan
+EET235135,Kali Kurta,Dyed Embroidered | Dobby,3990,In Stock,NAVY,/assets/Images/EET235135/image_0.jpg,Casual,Large,Asim Jofa
+EEB23590,Straight Pants,Dyed | Dobby,1990,In Stock,NAVY,/assets/Images/EEB23590/image_0.jpg,Casual,Size,Asim Jofa
+EET235134,Flared Kameez,Printed Embroidered | Dobby,3990,In Stock,PURPLE,/assets/Images/EET235134/image_0.jpg,Casual,Medium,Zara Khan
+EET235129,Kali Kurta,Printed Embroidered | Dobby,3990,In Stock,YELLOW,/assets/Images/EET235129/image_0.jpg,Casual,Small,Asim Jofa
+EEB23591,Narrow Culottes,Printed | Dobby,1990,In Stock,PINK,/assets/Images/EEB23591/image_0.jpg,Casual,Large,Asim Jofa
+EEB23586,Narrow Culottes,Printed | Dobby,1990,In Stock,YELLOW,/assets/Images/EEB23586/image_0.jpg,Casual,Medium,Asim Jofa
+EET235139,Flared Kameez,Dyed Embroidered | Dobby,4190,In Stock,OFF-WHITE,/assets/Images/EET235139/image_0.jpg,Casual,Small,Asim Jofa
+EEB23592,Tapered Shalwar,Dyed | Dobby,1990,In Stock,OFF-WHITE,/assets/Images/EEB23592/image_0.jpg,Casual,Large,Asim Jofa
+EET235130,A Line Kameez,Printed | Dobby,3490,In Stock,OFF-WHITE,/assets/Images/EET235130/image_0.jpg,Casual,Medium,Zara Khan
+EET235132,Contemporary Kameez,Printed | Dobby,3490,In Stock,PINK,/assets/Images/EET235132/image_0.jpg,Casual,Small,Asim Jofa
+EET235133,Contemporary Kameez,Dyed Embroidered | Dobby,4190,In Stock,PINK,/assets/Images/EET235133/image_0.jpg,Casual,Large,J.
+EST23210,Classic Kameez,Dyed Embroidered | Organza,7490,In Stock,BLACK,/assets/Images/EST23210/image_0.jpg,Casual,Medium,Bonanza
+EST23215T,Classic Kameez,Printed | Viscose Oak Silk,6490,In Stock,BLUE,/assets/Images/EST23215T/image_0.jpg,Casual,Small,Asim Jofa
+EST23212,Classic Kameez,Printed Embroidered | Viscose Oak Silk,7490,In Stock,BLUE,/assets/Images/EST23212/image_0.jpg,Casual,Large,Asim Jofa
+EST23201,Contemporary Kameez,Dyed Embroidered | Bamber Chiffon,10990,In Stock,OFF-WHITE,/assets/Images/EST23201/image_0.jpg,Casual,Medium,Zara Khan
+EST23205,Contemporary Kameez,Dyed Embroidered | Viscose Oak Silk,7990,In Stock,BLACK,/assets/Images/EST23205/image_0.jpg,Casual,Small,Asim Jofa
+EST23206,Drop Shoulder,Dyed Embroidered | Viscose Oak Silk,6990,In Stock,BEIGE,/assets/Images/EST23206/image_0.jpg,Casual,Large,Asim Jofa
+EST23213,Classic Kameez,Printed Embroidered | Viscose Oak Silk,6990,In Stock,CORAL,/assets/Images/EST23213/image_0.jpg,Casual,Medium,Zara Khan
+EST23211,Classic Kurta,Printed Embroidered | Viscose Oak Silk,5990,In Stock,WHITE,/assets/Images/EST23211/image_0.jpg,Casual,Small,Asim Jofa
+EST23208,Classic Kurta,Printed | Organza,4990,In Stock,BLUE,/assets/Images/EST23208/image_0.jpg,Casual,Large,Asim Jofa
+EST23202,Classic Kameez,Printed Embroidered | Bamber Chiffon,8990,In Stock,GREEN,/assets/Images/EST23202/image_0.jpg,Casual,Size,Asim Jofa
+EST23215,Classic Kameez,Printed | Viscose Oak Silk,6490,In Stock,BLUE,/assets/Images/EST23215/image_0.jpg,Casual,Medium,Bonanza
+EST23203,Drop Shoulder,Dyed Embroidered | Bamber Chiffon,9990,In Stock,BLUE,/assets/Images/EST23203/image_0.jpg,Casual,Small,Asim Jofa
+EET23395,Classic Kurta,Printed Embroidered | Lawn,3690,In Stock,BLACK,/assets/Images/EET23395/image_0.jpg,Casual,Large,Asim Jofa
+EET23392,Flared Kameez,Printed Embroidered | Lawn,3690,In Stock,BLUE,/assets/Images/EET23392/image_0.jpg,Casual,Medium,Zara Khan
+EET23394,Classic Kurta,Printed | Lawn,3490,In Stock,OFF-WHITE,/assets/Images/EET23394/image_0.jpg,Casual,Small,Asim Jofa
+EET23392B,Tulip Shalwar,Printed | Lawn,2190,In Stock,BLUE,/assets/Images/EET23392B/image_0.jpg,Casual,Large,Asim Jofa
+EET23391B,Tulip Shalwar,Printed | Lawn,2190,In Stock,BEIGE,/assets/Images/EET23391B/image_0.jpg,Casual,Medium,Zara Khan
+EET23391,Drop Shoulder,Printed | Lawn,3490,In Stock,BEIGE,/assets/Images/EET23391/image_0.jpg,Casual,Small,Asim Jofa
+EET23390,Contemporary Kameez,Printed Embroidered | Lawn,3690,In Stock,WHITE,/assets/Images/EET23390/image_0.jpg,Casual,Large,Asim Jofa
+EET23393,Classic Kurta,Printed | Lawn,3490,In Stock,BLUE,/assets/Images/EET23393/image_0.jpg,Casual,Medium,Asim Jofa
+EET23395B,Narrow Culottes,Printed Embroidered | Lawn,2190,In Stock,BLACK,/assets/Images/EET23395B/image_0.jpg,Casual,Small,Asim Jofa
+EET23394B,Narrow Culottes,Printed | Lawn,1990,In Stock,OFF-WHITE,/assets/Images/EET23394B/image_0.jpg,Casual,Large,Asim Jofa
+EET23390B,Straight Pants,Printed | Lawn,1990,In Stock,WHITE,/assets/Images/EET23390B/image_0.jpg,Casual,Medium,Zara Khan
+EET23393B,Narrow Culottes,Printed | Lawn,1990,In Stock,BLUE,/assets/Images/EET23393B/image_0.jpg,Casual,Small,Asim Jofa
+EET23310T,Classic Kurta,Dyed Embroidered | Cotton Cottel,5990,In Stock,MUSTARD,/assets/Images/EET23310T/image_0.jpg,Casual,Large,Asim Jofa
+EET23201,Raglan,Yarn Dyed | Cotton Polyester Broshia Jacquard,3990,In Stock,BLACK,/assets/Images/EET23201/image_0.jpg,Casual,Medium,Zara Khan
+EET23451,Classic Kameez,Yarn Dyed Embroidered | Mesuri,3690,In Stock,TEAL,/assets/Images/EET23451/image_0.jpg,Casual,Small,Asim Jofa
+EET23215,Classic Kurta,Yarn Dyed | Yarn Dyed Stripes,3490,In Stock,PINK,/assets/Images/EET23215/image_0.jpg,Casual,Large,Asim Jofa
+EET23207TT,Classic Kameez,Printed | Cambric,2990,In Stock,BLUE,/assets/Images/EET23207TT/image_0.jpg,Casual,Size,Zara Khan
+EET23205,Drop Shoulder,Printed | Cambric,2690,In Stock,TEAL,/assets/Images/EET23205/image_0.jpg,Casual,Medium,Asim Jofa
+EET23212,Classic Kurta,Dyed | Cambric,3190,In Stock,RED,/assets/Images/EET23212/image_0.jpg,Casual,Small,J.
+EET23202,Classic Kurta,Yarn Dyed | Cotton Polyester Broshia Jacquard,2990,In Stock,GREEN,/assets/Images/EET23202/image_0.jpg,Casual,Large,Bonanza
+EET23206,Classic Kameez,Printed | Cambric,2490,In Stock,MULTI,/assets/Images/EET23206/image_0.jpg,Casual,Medium,Asim Jofa
+EET23213,Classic Kurta,Yarn Dyed Embroidered | Yarn Dyed Stripes,3490,In Stock,ORANGE,/assets/Images/EET23213/image_0.jpg,Casual,Small,Asim Jofa
+EET23203,Classic Kurta,Yarn Dyed | Cotton Polyester Broshia Jacquard,3190,In Stock,OFF-WHITE,/assets/Images/EET23203/image_0.jpg,Casual,Large,Zara Khan
+EET23215T,Classic Kameez,Yarn Dyed | Yarn Dyed Stripes,2990,In Stock,MULTI,/assets/Images/EET23215T/image_0.jpg,Casual,Medium,Asim Jofa
+C2T23177BP,Culotte Pants,Block Printed | Dull Raw Silk,3190,In Stock,RED,/assets/Images/C2T23177BP/image_0.jpg,Casual,Small,Asim Jofa
+EET23531,Drop Shoulder,Printed Embroidered | Crosshatch,3690,In Stock,RUST,/assets/Images/EET23531/image_0.jpg,Casual,Large,Zara Khan
+EST23428,Classic Kameez,Printed Embroidered | Dull Raw Silk,4990,In Stock,BLUE,/assets/Images/EST23428/image_0.jpg,Casual,Medium,Asim Jofa
+EST23425,Classic Kameez,Yarn Dyed Embroidered | Cotton Polyester Broshia Jacquard,4490,In Stock,RED,/assets/Images/EST23425/image_0.jpg,Casual,Small,Asim Jofa
+EET23533,Contemporary Kurta,Dyed Embroidered | Khaddar,3990,In Stock,BEIGE,/assets/Images/EET23533/image_0.jpg,Casual,Large,Asim Jofa
+EET23513,Drop Shoulder,Printed Embroidered | Khaddar,3190,In Stock,OFF-WHITE,/assets/Images/EET23513/image_0.jpg,Casual,Medium,Asim Jofa
+EET23529,Classic Kurta,Printed Embroidered | Crosshatch,3190,In Stock,RUST,/assets/Images/EET23529/image_0.jpg,Casual,Small,Asim Jofa
+EEB23512,Flared Kameez,Dyed | Crosshatch,4990,In Stock,BLACK,/assets/Images/EEB23512/image_0.jpg,Casual,Large,Zara Khan
+EET24148,Classic Kurta,Printed | Cambric,2490,In Stock,MULTI,/assets/Images/EET24148/image_0.jpg,Casual,Medium,Asim Jofa
+ECT22457,Classic Kameez,Dyed | Cotton Satin Jacquard,3490,In Stock,MULTI,/assets/Images/ECT22457/image_0.jpg,Casual,Small,Asim Jofa
+EET23210,Contemporary Kurta,Dyed | Cambric,3690,In Stock,BLUE,/assets/Images/EET23210/image_0.jpg,Casual,Large,Zara Khan
+EET23214,Contemporary Kameez,Yarn Dyed | Yarn Dyed Stripes,3990,In Stock,BLUE,/assets/Images/EET23214/image_0.jpg,Casual,Size,Asim Jofa
+EET23211,Raglan,Dyed | Cambric,3690,In Stock,BLUE,/assets/Images/EET23211/image_0.jpg,Casual,Medium,Asim Jofa
+EET23203T,Contemporary Kameez,Yarn Dyed | Cotton Polyester Broshia Jacquard,3190,In Stock,OFF-WHITE,/assets/Images/EET23203T/image_0.jpg,Casual,Small,Zara Khan
+EET23313,Contemporary Kameez,Dyed | Cotton Cottel,4190,In Stock,RED,/assets/Images/EET23313/image_0.jpg,Casual,Large,Asim Jofa
+EES23510,Shawl,Yarn Dyed Embroidered | Rashmina Acrylic,3190,In Stock,RUST,/assets/Images/EES23510/image_0.jpg,Casual,Medium,J.
+EES24205,Dupatta,Printed | Lawn,1990,In Stock,MULTI,/assets/Images/EES24205/image_0.jpg,Casual,Small,Bonanza
+ESS23410,Dupatta,Yarn Dyed Embroidered | Cotton Polyester Broshia Jacquard,3990,In Stock,GREEN,/assets/Images/ESS23410/image_0.jpg,Casual,Large,Asim Jofa
+EES23515,Dupatta,Printed Embroidered | Light Khaddar,2490,In Stock,RUST,/assets/Images/EES23515/image_0.jpg,Casual,Medium,Asim Jofa
+EES24120,Dupatta,Dyed | Lawn,1990,In Stock,MULTI,/assets/Images/EES24120/image_0.jpg,Casual,Small,Zara Khan
+EES23517,Dupatta,Printed | Light Khaddar,1990,In Stock,BLACK,/assets/Images/EES23517/image_0.jpg,Casual,Large,Asim Jofa
+EES23509,Stole,Yarn Dyed Embroidered | Rashmina Acrylic,1990,In Stock,GREEN,/assets/Images/EES23509/image_0.jpg,Casual,Medium,Asim Jofa
+EES23513,Dupatta,Printed | Light Khaddar,1990,In Stock,BEIGE,/assets/Images/EES23513/image_0.jpg,Casual,Small,Zara Khan
+EES24121,Dupatta,Dyed | Lawn,1990,In Stock,MULTI,/assets/Images/EES24121/image_0.jpg,Casual,Large,Asim Jofa
+ESS23416,Dupatta,Yarn Dyed Printed | Polyester Net,3190,In Stock,RED,/assets/Images/ESS23416/image_0.jpg,Casual,Medium,Asim Jofa
+ESS23415,Dupatta,Yarn Dyed Printed | Polyester Net,2990,In Stock,MULTI,/assets/Images/ESS23415/image_0.jpg,Casual,Small,Asim Jofa
+ESS23411,Dupatta,Dyed Embroidered | Viscose Polyester Net,3990,In Stock,PURPLE,/assets/Images/ESS23411/image_0.jpg,Casual,Large,Asim Jofa
+EEB24134,Straight Pants,Printed | Cambric,1490,In Stock,MULTI,/assets/Images/EEB24134/image_0.jpg,Casual,Medium,Asim Jofa
+EEB24135,Straight Pants,Printed | Cambric,1490,In Stock,MULTI,/assets/Images/EEB24135/image_0.jpg,Casual,Small,Zara Khan
+EEB24140,Narrow Culottes,Printed | Cambric,1490,In Stock,MULTI,/assets/Images/EEB24140/image_0.jpg,Casual,Large,Asim Jofa
+EEB24137,Narrow Culottes,Printed | Cambric,1490,In Stock,MULTI,/assets/Images/EEB24137/image_0.jpg,Casual,Size,J.
+EEB24132,Classic Shalwar,Printed | Cambric,1490,In Stock,MULTI,/assets/Images/EEB24132/image_0.jpg,Casual,Medium,Bonanza
+EEB24139,Classic Shalwar,Printed | Cambric,1490,In Stock,MULTI,/assets/Images/EEB24139/image_0.jpg,Casual,Small,Asim Jofa
+EET23532B,Narrow Culottes,Dyed Embroidered | Crosshatch,2190,In Stock,BLACK,/assets/Images/EET23532B/image_0.jpg,Casual,Large,Asim Jofa
+EEB24131,Classic Shalwar,Printed | Cambric,1490,In Stock,MULTI,/assets/Images/EEB24131/image_0.jpg,Casual,Medium,Zara Khan
+EET23531B,Straight Pants,Dyed | Crosshatch,1690,In Stock,RUST,/assets/Images/EET23531B/image_0.jpg,Casual,Small,Asim Jofa
+EEB23510,Narrow Culottes,Dyed | Crosshatch,1690,In Stock,GREEN,/assets/Images/EEB23510/image_0.jpg,Casual,Large,Asim Jofa
+ESB23416,Narrow Culottes,Yarn Dyed Embroidered | Cotton Polyester Broshia Jacquard,2490,In Stock,GREEN,/assets/Images/ESB23416/image_0.jpg,Casual,Medium,Zara Khan
+EEB24136,Narrow Culottes,Printed | Cambric,1490,In Stock,MULTI,/assets/Images/EEB24136/image_0.jpg,Casual,Small,Asim Jofa
+EEB23511,Classic Shalwar,Dyed | Crosshatch,1690,In Stock,RED,/assets/Images/EEB23511/image_0.jpg,Casual,Large,Asim Jofa
+ESB23414,Tapered Shalwar,Dyed Embroidered | Dull Raw Silk,3690,In Stock,PURPLE,/assets/Images/ESB23414/image_0.jpg,Casual,Medium,Asim Jofa
+ESB23411,Tapered Shalwar,Dyed | Dull Raw Silk,2690,In Stock,BLUE,/assets/Images/ESB23411/image_0.jpg,Casual,Small,Asim Jofa
+ESB23412,Tapered Shalwar,Dyed Embroidered | Dull Raw Silk,2690,In Stock,BROWN,/assets/Images/ESB23412/image_0.jpg,Casual,Large,Asim Jofa
+EKT231026B,Classic Shalwar,Yarn Dyed Embroidered | Raw Silk,5990,In Stock,OFF-WHITE,/assets/Images/EKT231026B/image_0.jpg,Casual,Medium,Bonanza
+EEB24121,Tapered Shalwar,Printed | Cambric,1490,In Stock,MULTI,/assets/Images/EEB24121/image_0.jpg,Casual,Small,Asim Jofa
+EEB24126,Classic Shalwar,Printed | Cambric,1490,In Stock,MULTI,/assets/Images/EEB24126/image_0.jpg,Casual,Large,Asim Jofa
+ESB23208,Cuff Shalwar,Printed Embroidered | Viscose Oak Silk,4990,In Stock,BLUE,/assets/Images/ESB23208/image_0.jpg,Casual,Medium,Zara Khan
+ESS23412,Dupatta,Dyed Embroidered | Viscose Polyester Net,3990,In Stock,PINK,/assets/Images/ESS23412/image_0.jpg,Casual,Small,Asim Jofa
+ESS23409,Dupatta,Yarn Dyed Embroidered | Cotton Polyester Broshia Jacquard,3690,In Stock,GREEN,/assets/Images/ESS23409/image_0.jpg,Casual,Large,Asim Jofa
+EES23518,Shawl,Yarn Dyed | Rashmina Acrylic,2190,In Stock,NAVY,/assets/Images/EES23518/image_0.jpg,Casual,Size,Zara Khan
+ESS23266,Stole,Printed | Viscose Oak Silk,3490,In Stock,BEIGE,/assets/Images/ESS23266/image_0.jpg,Casual,Medium,Asim Jofa
+ESS23265,Stole,Yarn Dyed Embroidered | Cotton Net,4190,In Stock,OLIVE,/assets/Images/ESS23265/image_0.jpg,Casual,Small,Asim Jofa
+ESS23263,Stole,Yarn Dyed Embroidered | Cotton Net,2990,In Stock,GREEN,/assets/Images/ESS23263/image_0.jpg,Casual,Large,Asim Jofa
+ESS23264,Stole,Yarn Dyed Embroidered | Cotton Net,3690,In Stock,BLACK,/assets/Images/ESS23264/image_0.jpg,Casual,Medium,Asim Jofa
+EES23288,Stole,Printed | Lawn,1690,In Stock,PINK,/assets/Images/EES23288/image_0.jpg,Casual,Small,Asim Jofa
+ESS23245,Stole,Dyed Embroidered | Waffle Jacquard,4190,In Stock,MUSTARD,/assets/Images/ESS23245/image_0.jpg,Casual,Large,Zara Khan
+EES23146,Stole,Printed | Cotton Square,1690,In Stock,MULTI,/assets/Images/EES23146/image_0.jpg,Casual,Medium,Asim Jofa
+ESS23131,Stole,Dyed Embroidered | Viscose Polyester Net,3690,In Stock,PURPLE,/assets/Images/ESS23131/image_0.jpg,Casual,Small,Asim Jofa
+ESS23132,Stole,Dyed Embroidered | Viscose Polyester Net,3990,In Stock,GREEN,/assets/Images/ESS23132/image_0.jpg,Casual,Large,Zara Khan
+WCKT23226,V Neck Blouse,Dyed | Flat Back Variegated Rib,2990,In Stock,BLACK,/assets/Images/WCKT23226/image_0.jpg,Casual,Medium,Asim Jofa
+WCKT23230,Drop Shoulder T-shirt,Printed | Cotton Jersey,1990,In Stock,PINK,/assets/Images/WCKT23230/image_0.jpg,Casual,Small,Asim Jofa
+WCKT23233,Round Neck T-shirt,Dyed Embroidered | Cotton Jersey,1790,In Stock,BLACK,/assets/Images/WCKT23233/image_0.jpg,Casual,Large,Zara Khan
+WCKT23225T,Sleeveless T-shirt,Dyed | Flat Back Variegated Rib,2190,In Stock,GREEN,/assets/Images/WCKT23225T/image_0.jpg,Casual,Medium,Asim Jofa
+WCKT23221,Round Neck T-shirt,Printed | Cotton Jersey,1990,In Stock,YELLOW,/assets/Images/WCKT23221/image_0.jpg,Casual,Small,J.
+WCKT23225,V Neck Blouse,Dyed | Flat Back Variegated Rib,2990,In Stock,GREEN,/assets/Images/WCKT23225/image_0.jpg,Casual,Large,Bonanza
+WCKT23228,Drop Shoulder T-shirt,Printed | Cotton Jersey,2190,In Stock,WHITE,/assets/Images/WCKT23228/image_0.jpg,Casual,Medium,Asim Jofa
+WCKT23229,A Line Dress,Dyed | Flat Back Variegated Rib,3190,In Stock,BLACK,/assets/Images/WCKT23229/image_0.jpg,Casual,Small,Asim Jofa
+WCKD23210,Belted A Line Dress,Dyed | Flat Back Variegated Rib,3990,In Stock,GREY,/assets/Images/WCKD23210/image_0.jpg,Casual,Large,Zara Khan
+WCKB23227,Bootcut Trousers,Dyed | Flat Back Variegated Rib,2790,In Stock,GREEN,/assets/Images/WCKB23227/image_0.jpg,Casual,Size,Asim Jofa
+WCKB23213,Balloon Trousers,Dyed | Lycra Jersey,2790,In Stock,BLACK,/assets/Images/WCKB23213/image_0.jpg,Casual,Medium,Asim Jofa
+WSCT23232,Button Down Shirt,Dyed Embroidered | Viscose Oak Silk,5490,In Stock,BROWN,/assets/Images/WSCT23232/image_0.jpg,Casual,Small,Zara Khan
+WSCD23249T,Oversized Blouse,Printed | Viscose Crepe,3690,In Stock,MULTI,/assets/Images/WSCD23249T/image_0.jpg,Casual,Large,Asim Jofa
+WSCD23249,Belted Kaftan,Printed | Viscose Crepe,4190,In Stock,MULTI,/assets/Images/WSCD23249/image_0.jpg,Casual,Medium,Asim Jofa
+WSCT23234,Button Down Shirt,Printed | Viscose Crepe,3690,In Stock,BLACK,/assets/Images/WSCT23234/image_0.jpg,Casual,Small,Asim Jofa
+WSCT23235,Tie Neck Blouse,Printed | Bamber Chiffon,4190,In Stock,BROWN,/assets/Images/WSCT23235/image_0.jpg,Casual,Large,Asim Jofa
+WSCT23211,V Neck Blouse,Dyed Embroidered | Organza,5490,In Stock,OFF-WHITE,/assets/Images/WSCT23211/image_0.jpg,Casual,Medium,Asim Jofa
+WSCT23233,Raglan Blouse,Printed | Viscose Crepe,3690,In Stock,MULTI,/assets/Images/WSCT23233/image_0.jpg,Casual,Small,Zara Khan
+WSCT23237,Raglan Tunic,Printed Embroidered | Bamber Chiffon,4490,In Stock,BLACK,/assets/Images/WSCT23237/image_0.jpg,Casual,Large,Asim Jofa
+WSCD23253,Oversized Blouse,Dyed Embroidered | Viscose Crepe,3690,In Stock,BLACK,/assets/Images/WSCD23253/image_0.jpg,Casual,Medium,Asim Jofa
+WSCD23252,Belted Shirt Dress,Dyed Embroidered | Viscose Oak Silk,6490,In Stock,BLACK,/assets/Images/WSCD23252/image_0.jpg,Casual,Small,Zara Khan
+WSCB23231,Bootcut Trousers,Dyed | Viscose Oak Silk,2990,In Stock,BROWN,/assets/Images/WSCB23231/image_0.jpg,Casual,Large,Asim Jofa
+WCWD23221,Tiered Dress,Dyed Embroidered | Cotton Cottel,4990,In Stock,BLUE,/assets/Images/WCWD23221/image_0.jpg,Casual,Medium,Asim Jofa
+WCWB23219,Drop Shoulder Button Down Shirt,Dyed | Cotton Stretch Poplin,4690,In Stock,GREEN,/assets/Images/WCWB23219/image_0.jpg,Casual,Small,Zara Khan
+WCWD23221D,Tiered Dress,Dyed Embroidered | Cotton Cottel,5490,In Stock,BLUE,/assets/Images/WCWD23221D/image_0.jpg,Casual,Large,Asim Jofa
+WCWT23215,Band Collar Button Down Shirt,Dyed Embroidered | Cambric,4490,In Stock,BEIGE,/assets/Images/WCWT23215/image_0.jpg,Casual,Medium,J.
+WCWT23213,Raglan Button Down Shirt,Dyed | Cotton Cottel,4490,In Stock,WHITE,/assets/Images/WCWT23213/image_0.jpg,Casual,Small,Bonanza
+WCWT23217,Batwing Blouse,Printed | Cotton Viscose,4690,In Stock,BROWN,/assets/Images/WCWT23217/image_0.jpg,Casual,Large,Asim Jofa
+WCWB23216,Drop Shoulder Button Down Shirt,Dyed Embroidered | Cotton Stretch Poplin,4490,In Stock,BLUE,/assets/Images/WCWB23216/image_0.jpg,Casual,Size,Asim Jofa
+WCWT23214,Drop Shoulder Button Down Shirt,Dyed Embroidered | Cotton Stretch Poplin,4490,In Stock,BLACK,/assets/Images/WCWT23214/image_0.jpg,Casual,Medium,Zara Khan
+WCWD23223,Belted Dress,Printed | Cotton Viscose,6490,In Stock,BLACK,/assets/Images/WCWD23223/image_0.jpg,Casual,Small,Asim Jofa
+WCWT23216,Classic Button Down Shirt With Cuff Sleeves,Printed | Cotton Viscose,4690,In Stock,OFF-WHITE,/assets/Images/WCWT23216/image_0.jpg,Casual,Large,Asim Jofa
+WCWB23218,Drop Shoulder Button Down Shirt,Dyed Embroidered | Cotton Stretch Poplin,4490,In Stock,WHITE,/assets/Images/WCWB23218/image_0.jpg,Casual,Medium,Zara Khan
+WCWD23222,Raglan Dress,Dyed Embroidered | Cotton Cottel,5490,In Stock,BROWN,/assets/Images/WCWD23222/image_0.jpg,Casual,Small,Asim Jofa
+WSCD23233,V Neck Tunic,Dyed | Polyester Broshia,4190,In Stock,PINK,/assets/Images/WSCD23233/image_0.jpg,Casual,Large,Asim Jofa
+WSCD23232,Button Down Shirt,Dyed | Polyester Broshia,4690,In Stock,PINK,/assets/Images/WSCD23232/image_0.jpg,Casual,Medium,Asim Jofa
+WSCT23222B,V Neck Blouse,Printed | Textured Chiffon,4190,In Stock,BLACK,/assets/Images/WSCT23222B/image_0.jpg,Casual,Small,Asim Jofa
+WSCT23221,Button Down Shirt,Dyed | Ripple Polyester,4690,In Stock,L-GREEN,/assets/Images/WSCT23221/image_0.jpg,Casual,Large,Asim Jofa
+WSCT23220,Button Down Shirt,Dyed | Polyester Broshia,4690,In Stock,MAROON,/assets/Images/WSCT23220/image_0.jpg,Casual,Medium,Zara Khan
+WSCD23234,Button Down Shirt,Dyed | Ripple Polyester,4690,In Stock,MAROON,/assets/Images/WSCD23234/image_0.jpg,Casual,Small,Asim Jofa
+WSCD23231,Belted Oversized Blouse,Dyed | Pleated Georgette,4190,In Stock,BLUE,/assets/Images/WSCD23231/image_0.jpg,Casual,Large,J.
+WSCD23236,Raglan Blouse,Printed | Textured Chiffon,4190,In Stock,OFF-WHITE,/assets/Images/WSCD23236/image_0.jpg,Casual,Medium,Bonanza
+WSCT23219,A-Line Dress,Dyed | Pleated Georgette,4490,In Stock,PINK,/assets/Images/WSCT23219/image_0.jpg,Casual,Small,Asim Jofa
+WSCD23230,Belted Dress,Dyed | Pleated Georgette,5990,In Stock,YELLOW,/assets/Images/WSCD23230/image_0.jpg,Casual,Large,Asim Jofa
+WSCD23236D,Belted Raglan Dress,Printed | Textured Chiffon,7990,In Stock,OFF-WHITE,/assets/Images/WSCD23236D/image_0.jpg,Casual,Medium,Zara Khan
+WSCT23222,Belted Dress,Printed | Textured Chiffon,7990,In Stock,BLACK,/assets/Images/WSCT23222/image_0.jpg,Casual,Small,Asim Jofa
+WCKT23238,Drop Shoulder T-shirt,Dyed Embroidered | Cotton Jersey,1790,In Stock,BLACK,/assets/Images/WCKT23238/image_0.jpg,Casual,Large,Asim Jofa
+WCKT23252,Drop Shoulder T-shirt,Printed | Cotton Jersey,1790,In Stock,WHITE,/assets/Images/WCKT23252/image_0.jpg,Casual,Size,Zara Khan
+WCKT23239,Drop Shoulder T-shirt,Dyed Embroidered | VP Lycra Jersey,1790,In Stock,GREEN,/assets/Images/WCKT23239/image_0.jpg,Casual,Medium,Asim Jofa
+WCKT23248,Round Neck T-shirt,Printed | Lycra Jersey,2190,In Stock,WHITE,/assets/Images/WCKT23248/image_0.jpg,Casual,Small,Asim Jofa
+WCKB23218,Bootcut Pants,Dyed | Stretch French Terry,2590,In Stock,GREEN,/assets/Images/WCKB23218/image_0.jpg,Casual,Large,Asim Jofa
+WCKT23247,Round Neck T-shirt,Printed Embroidered | Lycra Jersey,1990,In Stock,GREY,/assets/Images/WCKT23247/image_0.jpg,Casual,Medium,Asim Jofa
+WCKT23244,Round Neck T-shirt,Printed | Lycra Jersey,1790,In Stock,WHITE,/assets/Images/WCKT23244/image_0.jpg,Casual,Small,Asim Jofa
+WCKT23254,Tank Top,Dyed | Lycra Rib,1190,In Stock,BEIGE,/assets/Images/WCKT23254/image_0.jpg,Casual,Large,Bonanza
+WCKT23243,Drop Shoulder T-shirt,Printed Embroidered | Single Jersey,2190,In Stock,BLUE,/assets/Images/WCKT23243/image_0.jpg,Casual,Medium,Asim Jofa
+WCKT23245,Drop Shoulder T-shirt,Printed Embroidered | Lycra Jersey,2190,In Stock,BLACK,/assets/Images/WCKT23245/image_0.jpg,Casual,Small,Asim Jofa
+WCKB23220,Shalwar Pants,Dyed | Lycra Jersey,2390,In Stock,GREY,/assets/Images/WCKB23220/image_0.jpg,Casual,Large,Zara Khan
+WCKB23219,Shalwar Pants,Dyed | Double Jersey,2390,In Stock,BLUE,/assets/Images/WCKB23219/image_0.jpg,Casual,Medium,Asim Jofa
+WCKT23246,Oversized T-Shirt,Printed | Lycra Jersey,1990,In Stock,WHITE,/assets/Images/WCKT23246/image_0.jpg,Casual,Small,Asim Jofa
+WCKT23249,Round Neck T-shirt,Printed | Lycra Jersey,1790,In Stock,YELLOW,/assets/Images/WCKT23249/image_0.jpg,Casual,Large,Zara Khan
+WSCD23222,Tiered Dress,Dyed Embroidered | Viscose Crepe,5990,In Stock,MAROON,/assets/Images/WSCD23222/image_0.jpg,Casual,Medium,Asim Jofa
+WSCB23209T,V Neck Tunic,Dyed Embroidered | Viscose Crepe,4990,In Stock,BLACK,/assets/Images/WSCB23209T/image_0.jpg,Casual,Small,Asim Jofa
+WSCD23217B,Culottes Pants,Dyed Embroidered | Viscose Crepe,3190,In Stock,OFF-WHITE,/assets/Images/WSCD23217B/image_0.jpg,Casual,Large,Asim Jofa
+WSCD23219,Elasticated Hem Dress,Printed | Viscose Oak Silk,5990,In Stock,OFF-WHITE,/assets/Images/WSCD23219/image_0.jpg,Casual,Medium,Asim Jofa
+WSCD23217,Button Down Shirt,Dyed Embroidered | Viscose Crepe,4490,In Stock,OFF-WHITE,/assets/Images/WSCD23217/image_0.jpg,Casual,Small,Asim Jofa
+WSCT23213B,Straight Pants,Printed | Viscose Crepe,2390,In Stock,MULTI,/assets/Images/WSCT23213B/image_0.jpg,Casual,Large,Zara Khan
+WSCB23207,Single Tiered Belted Dress,Printed | Chiffon,6990,In Stock,GREEN,/assets/Images/WSCB23207/image_0.jpg,Casual,Size,Asim Jofa
+WSCD23220,Elasticated Hem Dress,Printed Embroidered | Chiffon,6990,In Stock,BLACK,/assets/Images/WSCD23220/image_0.jpg,Casual,Medium,Asim Jofa
+WSCD23223,Belted Jumpsuit,Printed | Viscose Crepe,4990,In Stock,MAROON,/assets/Images/WSCD23223/image_0.jpg,Casual,Small,Zara Khan
+WSCD23218,Tiered Dress,Dyed Embroidered | Viscose Crepe,5990,In Stock,BLACK,/assets/Images/WSCD23218/image_0.jpg,Casual,Large,Asim Jofa
+WSCT23213,Button Down Shirt,Printed | Viscose Crepe,4190,In Stock,MULTI,/assets/Images/WSCT23213/image_0.jpg,Casual,Medium,Asim Jofa
+WCKO22416,Oversized Sweatshirt,Printed Lycra Terry | Sweatshirt,2690,In Stock,RED,/assets/Images/WCKO22416/image_0.jpg,Casual,Small,Zara Khan
+WCWD23220,Raglan Tunic,Dyed | Crosshatch Poplin,3490,In Stock,BLACK,/assets/Images/WCWD23220/image_0.jpg,Casual,Large,Asim Jofa
+WCWS23208,Peplum,Dyed Embroidered | Triblend,4490,In Stock,RED,/assets/Images/WCWS23208/image_0.jpg,Casual,Medium,J.
+WCWT23226,Peplum,Printed | Premium Lawn,4190,In Stock,BLUE,/assets/Images/WCWT23226/image_0.jpg,Casual,Small,Bonanza
+WCWT23227,Raglan Blouse,Printed Embroidered | Premium Lawn,4690,In Stock,PINK,/assets/Images/WCWT23227/image_0.jpg,Casual,Large,Asim Jofa
+WCWS23207,Button Down Shirt,Dyed | Ripple Crinkle,3490,In Stock,BLUE,/assets/Images/WCWS23207/image_0.jpg,Casual,Medium,Asim Jofa
+WCWT23212,Button Down Shirt,Printed Embroidered | Crosshatch Poplin,4490,In Stock,BLUE,/assets/Images/WCWT23212/image_0.jpg,Casual,Small,Zara Khan
+WCWD23218,Drop Shoulder Button Down Shirt,Dyed | Ripple Crinkle,3490,In Stock,PINK,/assets/Images/WCWD23218/image_0.jpg,Casual,Large,Asim Jofa
+WCWT23210,Button Down Shirt,Printed | Ripple Crinkle,3490,In Stock,GREEN,/assets/Images/WCWT23210/image_0.jpg,Casual,Medium,Asim Jofa
+WCKT23127,Polo Shirt,Yarn Dyed | Jacquard Jersey,3190,In Stock,BLACK,/assets/Images/WCKT23127/image_0.jpg,Casual,Small,Zara Khan
+WSCD23229,Batwing Button Down Tunic,Dyed | Heavy Georgette,4490,In Stock,GREEN,/assets/Images/WSCD23229/image_0.jpg,Casual,Large,Asim Jofa
+WSCT23115,Classic Button Down Shirt,Printed | Viscose Cottel,3190,In Stock,PURPLE,/assets/Images/WSCT23115/image_0.jpg,Casual,Medium,Asim Jofa
+WCKT23275,Basic Camisole,Dyed | Lycra Jersey,990,In Stock,BEIGE,/assets/Images/WCKT23275/image_0.jpg,Casual,Small,Asim Jofa
+WCWD23215,Belted Shirt Dress,Printed | Ripple Crinkle,5990,In Stock,BLUE,/assets/Images/WCWD23215/image_0.jpg,Casual,Large,Asim Jofa
+WCWD23217,Belted A Line Dress,Dyed Embroidered | Triblend,6990,In Stock,BLACK,/assets/Images/WCWD23217/image_0.jpg,Casual,Size,Asim Jofa
+WCWD23214,Belted Shirt Dress,Printed | Ripple Crinkle,5990,In Stock,BLUE,/assets/Images/WCWD23214/image_0.jpg,Casual,Medium,Zara Khan
+WCWD23216,Tiered Dress,Printed Embroidered | Crosshatch Poplin,6990,In Stock,OFF-WHITE,/assets/Images/WCWD23216/image_0.jpg,Casual,Small,Asim Jofa
+WCKD23105B,Low Tiered Dress,Printed | Lycra Jersey,3690,In Stock,MULTI,/assets/Images/WCKD23105B/image_0.jpg,Casual,Large,Asim Jofa
+WCKB23212,Balloon Trousers,Dyed | Lycra Jersey,2790,In Stock,WHITE,/assets/Images/WCKB23212/image_0.jpg,Casual,Medium,Zara Khan
+WCWB23208,Straight Trousers,Dyed | Stretch Twill,2990,In Stock,BEIGE,/assets/Images/WCWB23208/image_0.jpg,Casual,Small,Asim Jofa
+WCWB23207B,Culottes,Dyed | Stretch Twill,3190,In Stock,OFF-WHITE,/assets/Images/WCWB23207B/image_0.jpg,Casual,Large,Asim Jofa
+WSCD23235B,Straight Trousers,Dyed | Ripple Polyester,4490,In Stock,BLACK,/assets/Images/WSCD23235B/image_0.jpg,Casual,Medium,Zara Khan
+WSCT23219B,Flared Pants,Dyed | Pleated Georgette,3690,In Stock,PINK,/assets/Images/WSCT23219B/image_0.jpg,Casual,Small,Asim Jofa
+WCWB22416,Mid-Rise Skinny Jeans,Mid Blue Wash Stretch Denim,3490,In Stock,BLUE,/assets/Images/WCWB22416/image_0.jpg,Casual,Large,J.
+WCWB22415,High-Rise Skinny Jeans,Light Blue Wash Stretch Denim,3690,In Stock,BLUE,/assets/Images/WCWB22415/image_0.jpg,Casual,Medium,Bonanza
+WCWB22411,High-Rise Skinny Jeans,Dark Blue Wash Stretch Denim,3690,In Stock,BLUE,/assets/Images/WCWB22411/image_0.jpg,Casual,Small,Asim Jofa
+WCWB22418,High-Rise Bootcut Jeans,Black Stretch Denim,3990,In Stock,BLACK,/assets/Images/WCWB22418/image_0.jpg,Casual,Large,Asim Jofa
+WCWB22417,Mid-Rise Skinny Jeans,Black Stretch Denim,3490,In Stock,BLACK,/assets/Images/WCWB22417/image_0.jpg,Casual,Medium,Zara Khan
+WCWB22412,Mid-Rise Bootcut Jeans,Light Blue Wash Stretch Denim,3990,In Stock,BLUE,/assets/Images/WCWB22412/image_0.jpg,Casual,Small,Asim Jofa
+WCWB22414E,Tiered Skirt,Skirt,6490,In Stock,WHITE,/assets/Images/WCWB22414E/image_0.jpg,Casual,Large,Asim Jofa
+EST22481,Classic Kurta,Dyed Embroidered | Marina Herringbone,6490,In Stock,BROWN,/assets/Images/EST22481/image_0.jpg,Casual,Medium,Zara Khan
+EEO22438,Drop Shoulder,Printed | Corduroy,5990,In Stock,MULTI,/assets/Images/EEO22438/image_0.jpg,Casual,Small,Asim Jofa
+EET22436,Classic Kameez,Printed | Corduroy,4990,In Stock,MULTI,/assets/Images/EET22436/image_0.jpg,Casual,Large,Asim Jofa
+EEO22480,Classic Kameez,Yarn Dyed Embroidered | Denim,5490,In Stock,BLUE,/assets/Images/EEO22480/image_0.jpg,Casual,Size,Asim Jofa
+ECT22405KN,Flared Kameez,Printed | Khaddi Net,6990,In Stock,PURPLE,/assets/Images/ECT22405KN/image_0.jpg,Casual,Medium,Asim Jofa
+ECT22408KN,Classic Kurta,Printed | Khaddi Net,7490,In Stock,BLUE,/assets/Images/ECT22408KN/image_0.jpg,Casual,Small,Asim Jofa
+ECT22412KN,Classic Kameez,Dyed Embroidered | Khaddi Net,14990,In Stock,WHITE,/assets/Images/ECT22412KN/image_0.jpg,Casual,Large,Zara Khan
+ECT22406KN,Flared Kameez,Printed | Khaddi Net,6990,In Stock,BEIGE,/assets/Images/ECT22406KN/image_0.jpg,Casual,Medium,Asim Jofa
+ECT22410KN,Classic Kurta,Printed | Khaddi Net,7990,In Stock,LILAC,/assets/Images/ECT22410KN/image_0.jpg,Casual,Small,J.
+EST22491,Classic Kameez,Dyed Embroidered | Cambric,7490,In Stock,BLACK,/assets/Images/EST22491/image_0.jpg,Casual,Large,Bonanza
+ECT22407KN,Classic Kameez,Printed | Khaddi Net,7490,In Stock,BLACK,/assets/Images/ECT22407KN/image_0.jpg,Casual,Medium,Asim Jofa
+EST23179,Drop Shoulder,Dyed Embroidered | Dobby,8990,In Stock,PINK,/assets/Images/EST23179/image_0.jpg,Casual,Small,Asim Jofa
+EET23274,Contemporary Kameez,Yarn Dyed | Cotton Polyester Broshia Jacquard,4490,In Stock,RED,/assets/Images/EET23274/image_0.jpg,Casual,Large,Zara Khan
+ESB23157,Straight Pants,Dyed Embroidered | Dobby,2490,In Stock,ORANGE,/assets/Images/ESB23157/image_0.jpg,Casual,Medium,Asim Jofa
+EST23186,Flared Kameez,Printed Embroidered | Dull Raw Silk,5490,In Stock,MULTI,/assets/Images/EST23186/image_0.jpg,Casual,Small,Asim Jofa
+EST23188,Flared Kameez,Printed Embroidered | Dull Raw Silk,5990,In Stock,MULTI,/assets/Images/EST23188/image_0.jpg,Casual,Large,Zara Khan
+ESB23144B,Narrow Culottes,Dyed Embroidered | Dull Raw Silk,2490,In Stock,BLUE,/assets/Images/ESB23144B/image_0.jpg,Casual,Medium,Asim Jofa
+EST23172,Classic Kurta,Dyed Embroidered | Dull Raw Silk,8490,In Stock,BLUE,/assets/Images/EST23172/image_0.jpg,Casual,Small,Asim Jofa
+EST23166,Flared Kameez,Printed Embroidered | Cotton Cottel,4990,In Stock,MULTI,/assets/Images/EST23166/image_0.jpg,Casual,Large,Asim Jofa
+EEB23244,Narrow Culottes,Yarn Dyed | Cotton Polyester Broshia Jacquard,1990,In Stock,RED,/assets/Images/EEB23244/image_0.jpg,Casual,Medium,Asim Jofa
+ESB23222,Narrow Culottes,Yarn Dyed Embroidered | Cotton Polyester Broshia Jacquard,2690,In Stock,GREEN,/assets/Images/ESB23222/image_0.jpg,Casual,Small,Asim Jofa
+EST23176,Classic Kurta,Dyed Embroidered | Cambric,6990,In Stock,PURPLE,/assets/Images/EST23176/image_0.jpg,Casual,Large,Asim Jofa
+EST23232,Classic Kurta,Yarn Dyed Embroidered | Cotton Polyester Broshia Jacquard,6490,In Stock,GREEN,/assets/Images/EST23232/image_0.jpg,Casual,Small,Bonanza
+EET23347,Kali Kurta,Dyed Embroidered | Dobby,3490,In Stock,BLUE,/assets/Images/EET23347/image_0.jpg,Casual,Large,Asim Jofa
+EET23349T,Kali Kurta,Dyed | Dobby,2990,In Stock,OFF-WHITE,/assets/Images/EET23349T/image_0.jpg,Casual,Medium,Asim Jofa
+EET23348T,Classic Kameez,Dyed | Dobby,2990,In Stock,PINK,/assets/Images/EET23348T/image_0.jpg,Casual,Small,Zara Khan
+EET23339,Contemporary Kameez,Printed | Cambric,2690,In Stock,BLUE,/assets/Images/EET23339/image_0.jpg,Casual,Large,Asim Jofa
+EET23336,Classic Kameez,Printed | Cotton Viscose,2990,In Stock,MULTI,/assets/Images/EET23336/image_0.jpg,Casual,Medium,Asim Jofa
+EET23338,Classic Kameez,Printed | Cotton Viscose,2990,In Stock,RED,/assets/Images/EET23338/image_0.jpg,Casual,Small,Zara Khan
+EET23346T,Classic Kurta,Dyed | Dobby,2990,In Stock,YELLOW,/assets/Images/EET23346T/image_0.jpg,Casual,Large,Asim Jofa
+EET231186,Kali Kurta,Printed | Cambric,2190,In Stock,MULTI,/assets/Images/EET231186/image_0.jpg,Casual,Size,Asim Jofa
+EET23345,Classic Kurta,Printed | Cambric,2990,In Stock,MULTI,/assets/Images/EET23345/image_0.jpg,Casual,Medium,Asim Jofa
+EET23346,Kali Kurta,Dyed Embroidered | Dobby,3490,In Stock,YELLOW,/assets/Images/EET23346/image_0.jpg,Casual,Small,Asim Jofa
+EET23340,Classic Kameez,Printed | Cambric,2690,In Stock,PINK,/assets/Images/EET23340/image_0.jpg,Casual,Large,Asim Jofa
+EET23350,Classic Kameez,Dyed Embroidered | Dobby,3490,In Stock,BLUE,/assets/Images/EET23350/image_0.jpg,Casual,Medium,Zara Khan
+ALA230802,Fabrics 3 Piece Suit,Printed | Top Bottoms Dupatta,4190,In Stock,PURPLE,/assets/Images/ALA230802/image_0.jpg,Casual,Small,Asim Jofa
+BLA230804,Fabrics 3 Piece Suit,Printed Embroidered | Top Bottoms Dupatta,4590,In Stock,YELLOW,/assets/Images/BLA230804/image_0.jpg,Casual,Large,Asim Jofa
+ALA230801,Fabrics 3 Piece Suit,Printed | Top Bottoms Dupatta,4190,In Stock,YELLOW,/assets/Images/ALA230801/image_0.jpg,Casual,Medium,Zara Khan
+LLA230801,Fabrics 2 Piece,Printed | Top Dupatta,3190,In Stock,GREEN,/assets/Images/LLA230801/image_0.jpg,Casual,Small,Asim Jofa
+BLA230803,Fabrics 3 Piece Suit,Printed Embroidered | Top Bottoms Dupatta,5190,In Stock,MAROON,/assets/Images/BLA230803/image_0.jpg,Casual,Large,Asim Jofa
+ALA230828,Fabrics 3 Piece Suit,Printed | Top Bottoms Dupatta,4190,In Stock,BLACK,/assets/Images/ALA230828/image_0.jpg,Casual,Medium,Zara Khan
+ALA230827,Fabrics 3 Piece Suit,Printed | Top Bottoms Dupatta,4190,In Stock,GREEN,/assets/Images/ALA230827/image_0.jpg,Casual,Small,Asim Jofa
+LLA230802,Fabrics 2 Piece,Printed | Top Dupatta,3190,In Stock,OFF-WHITE,/assets/Images/LLA230802/image_0.jpg,Casual,Large,J.
+CTX409638,Fabrics 3 Piece Suit | Khaas,Waleema Wear,50000,Available,WHITE,/assets/bridal/Afrin1.jpg,Formal,Small,Bonanza
+BZM322114,Fabrics 3 Piece Suit,Waleema Wear,60000,Available,PEACH,/assets/bridal/Ania-1.webp,Formal,Large,Asim Jofa
+XNH002078,Fabrics 3 Piece Suit,Nikkah Wear,70000,Available,GOLD,/assets/bridal/Gold-04.webp,Formal,Medium,Asim Jofa
+LRO786202,Fabrics 3 Piece Suit,Waleema Wear,50000,Available,WHITE,/assets/bridal/Maia_Melissa_Gold_Bridal_Dress_Gown_4-_Zuria_Dor.webp,Formal,Small,Zara Khan
+OHJ368562,Fabrics 3 Piece Suit,Waleema Wear,60000,Available,GREY,/assets/bridal/Maia_Selene_Silver_Bridal_Dress_Sharara_1_Zuria_Dor.webp,Formal,Large,Asim Jofa
+IUD155856,Fabrics 2 Piece,Barat Wear,70000,Available,GREY,/assets/bridal/Maia_Selene_Silver_Bridal_Dress_Sharara_3_Zuria_Dor.webp,Formal,Medium,Asim Jofa
+QWM785787,Fabrics 2 Piece,Nikkah Wear,50000,Available,PEACH,/assets/bridal/new-01.webp,Formal,Small,Zara Khan
+VBY581222,Fabrics 3 Piece Suit | Khaas,Waleema Wear,60000,Available,GOLD,/assets/bridal/Niera-01.webp,Formal,Large,Asim Jofa
+EFZ195005,Fabrics 3 Piece Suit,Nikkah Wear,70000,Available,WHITE,/assets/bridal/Photo07-02-2022_104552.webp,Formal,Medium,Asim Jofa
+CEC704785,Fab+B101:B110cs 3 Piece Suit,Barat Wear,90000,Available,PINK,/assets/bridal/Roza-01_b8da7411-3db1-479d-ac76-4ea5080f257c.webp,Formal,Small,Asim Jofa
+TRM179898,Fabrics 2 Piece,Party Wear,10000,Available,WHITE,/assets/bridal/Arbor-Formal-Dress-Fiore-Collection-Zuria-Dor-1.webp,Semi-Formal,Large,Asim Jofa
+XPD463543,Fabrics 3 Piece Suit | Khaas,Party Wear,20000,Available,WHITE,/assets/bridal/Arbor-Formal-Dress-Fiore-Collection-Zuria-Dor-5.webp,Semi-Formal,Small,Asim Jofa
+FCS378732,Fabrics 3 Piece Suit,Party Wear,20000,Available,BLACK ,/assets/bridal/Dhalia-01.webp,Semi-Formal,Large,Zara Khan
+EIS001308,Fabrics 3 Piece Suit,Party Wear,10000,Available,BLACK,/assets/bridal/Dhalia-04.webp,Semi-Formal,Medium,Asim Jofa
+DXM829386,Fabrics 3 Piece Suit,Party Wear,20000,Available,BLUE,/assets/bridal/Hyacinth-01.webp,Semi-Formal,Small,Asim Jofa
+QLV739892,Fabrics 3 Piece Suit,Party Wear,10000,Not Available,WHITE,/assets/bridal/Hyacinth-01.webp,Semi-Formal,Large,Zara Khan
+GOI867847,Fabrics 2 Piece,Party Wear,10000,Available,WHITE,/assets/bridal/Klara-Formal-Dress-Fiore-Collection-Zuria-Dor-4.webp,Semi-Formal,Medium,Asim Jofa
+OZQ544858,Fabrics 2 Piece,Party Wear,20000,Available,BLUE,/assets/bridal/Makena-Formal-Pishwas-Imani-Collection-Zuria-Dor-1.webp,Semi-Formal,Small,Asim Jofa
+EWR944665,Fabrics 3 Piece Suit | Khaas,Party Wear,20000,Available,BLUE,/assets/bridal/Makena-Formal-Pishwas-Imani-Collection-Zuria-Dor-3.webp,Semi-Formal,Large,Zara Khan
+EWR944665,Fabrics 3 Piece Suit | Khaas,Party Wear,20000,Available,WHITE,/assets/bridal/Raisa-Formal-Dress-Fiore-Collection-Zuria-Dor-2.webp,Semi-Formal,Medium,Asim Jofa
